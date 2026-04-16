@@ -19,9 +19,14 @@ Instead of generic UI, give your AI agent the visual philosophy, exact color tok
 | [**Linear**](./brands/linear.md) | Engineer Minimal | Ultra-minimal dark mode, Purple accents, 0.5px precision. |
 | [**Apple**](./brands/apple.md) | Extreme Restraint | San Francisco type, Premium whitespace, System depth. |
 | [**Vercel**](./brands/vercel.md) | Geometric Modern | Monochromatic high-contrast, Geist typography, Structured. |
-| [**NVIDIA**](./brands/nvidia.md) | Technical Power | Green-black energy, High-performance aesthetic. |
+| [**GitHub**](./brands/github.md) | Code-Forward | Primer tokens, Neutral density, Accessibility-focused. |
+| [**Airbnb**](./brands/airbnb.md) | Warm Hospitality | Coral accents, Soft rounded UI, Photography-driven. |
+| [**SpaceX**](./brands/spacex.md) | Mission Critical | Brutalist dark, Technical precision, Industrial feel. |
+| [**Discord**](./brands/discord.md) | Playful Community | Blurple brand, Cozy dark mode, Expressive UI. |
+| [**NVIDIA**](./brands/nvidia.md) | Technical Power | Green-black energy, High-performance cinematic. |
 | [**Supabase**](./brands/supabase.md) | Developer Centric | Emerald accents, Polished dark dashboard patterns. |
 | [**Notion**](./brands/notion.md) | Warm Minimalism | Warm white, Editorial serif type, Organic feel. |
+| [**Coinbase**](./brands/coinbase.md) | High-Trust Fintech | Secure blue, Clean professional light mode. |
 | [**Spotify**](./brands/spotify.md) | Immersive Dark | Vibrant green, Bold Circular type, Media-first. |
 
 ## 🧩 What's inside each file?
